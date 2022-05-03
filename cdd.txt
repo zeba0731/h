@@ -1,0 +1,16 @@
+home assignemnet 1
+on or before friday
+r202
+
+cdd questions:
+
+1.list out the best practices for implementing continuous integration
+2.dfine devops and illustrate the relationship between agile and devops
+3.relate devops engineer duty with regards to agile development with neat diagram
+4.utilize gitbas or terminal and deploy the file to github
+5.identify the need of version control systems.list thepopular control vers
+demonstrate role of version control systems in devop environment
+6.identify the types ofsource control systems and the supporting tools
+7.explain thw workflow of devops and devsecops
+8.demonstrate about various cloud service models and importance of cloud in devops
+9.demonstrate the process of deploying the files to bitbucket via git
